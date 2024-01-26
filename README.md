@@ -1,2 +1,2 @@
 # Data Science
-Various tools using pandas and matplotlib for data science.
+Tools for data science / data analysis using python pandas and matplotlib.
